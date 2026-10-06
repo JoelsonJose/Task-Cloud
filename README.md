@@ -2,8 +2,6 @@
 
 Dashboard interativo desenvolvido com **Streamlit**, **Pandas** e **Plotly** para análise exploratória e acompanhamento dos indicadores de vendas da rede Sabor do Sertão.
 
-![Demonstração do Painel](dashboard.png)
-
 ## 🚀 Funcionalidades
 
 - **Nível 1: Exploração e Tratamento de Dados**: Visualização dos dados brutos, estatísticas descritivas, contagem e tratamento de valores ausentes.
